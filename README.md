@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Lukas QA engineer from Kaunas, Lithuania. Decided to challenge myself and try something new - to learn how to develop web applications.
+I'm Lukas Java developer from Kaunas, Lithuania.
 
 ## Languages and tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
