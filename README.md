@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Lukas Java developer from Kaunas, Lithuania.
+I'm Lukas, a Java developer from Kaunas, Lithuania.
 
 ## Languages and tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -32,7 +32,7 @@ I'm Lukas Java developer from Kaunas, Lithuania.
 - 🔭 I’m currently solving tasks from [fullstackopen](https://fullstackopen.com/en/) course and learning 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-- 💬 Ask me about Home automation, Quality assurance 
+- 💬 Ask me about Home automation, Quality assurance, Web development
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-dvarionis-4b6b1b123/)
 - ⚡ Fun fact: Favorite chess opening - Bongcloud💨
 
